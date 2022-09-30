@@ -1,1 +1,8 @@
 Davis 001
+git config --global user.email "davi.s@to.estudante.senai.br"
+  git config --global user.name "Davis-001"
+  -------------- Comandos GIT---------------------------
+  git add . (seleciona todas as modificações feita no arquivo)
+  git commit -m "escreva algo"  (mostra umam mensagem como comentário...)
+  git push origin main (manda todas as alteraçõeas pro repositório)
+
