@@ -6,3 +6,5 @@ git config --global user.email "davi.s@to.estudante.senai.br"
   git commit -m "escreva algo"  (mostra umam mensagem como comentário...)
   git push origin main (manda todas as alteraçõeas pro repositório)
 
+git pull
+
